@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/nexbo/OneDrive/Documents/GitHub/GameProject0/GameProject0/GameProject0/Content/bangers.spritefont</File>
+    <File>C:/Users/nexbo/OneDrive/Documents/GitHub/GameProject0/GameProject0/GameProject0/Content/ExitButton.png</File>
+    <File>C:/Users/nexbo/OneDrive/Documents/GitHub/GameProject0/GameProject0/GameProject0/Content/mushroom.png</File>
+    <File>C:/Users/nexbo/OneDrive/Documents/GitHub/GameProject0/GameProject0/GameProject0/Content/pinkhairgirl.png</File>
+    <File>C:/Users/nexbo/OneDrive/Documents/GitHub/GameProject0/GameProject0/GameProject0/Content/rockguy.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
